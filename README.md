@@ -24,10 +24,15 @@ Si el usuario ingresa un número no válido o se produce un error al consultar l
 Tecnologías utilizadas:
 
 Java 19
+
 POO
+
 API pública de Star Wars (https://swapi.dev/)
+
 Gson (https://github.com/google/gson)
+
 Java 19 HTTP Client API
+
 
 Consideraciones adicionales:
 
